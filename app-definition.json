@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "title": "Event RSVP",
+  "framework": "Next.js",
+  "transport": "api",
+  "details": [
+    [
+      "When",
+      "October 17, 2026 \u00b7 18:00 UTC"
+    ],
+    [
+      "Where",
+      "Studio 04 \u00b7 Community workshop"
+    ],
+    [
+      "Format",
+      "Free \u00b7 bring something you are building"
+    ]
+  ],
+  "projects": [],
+  "actions": [],
+  "capacity": 0,
+  "adminOnly": false,
+  "hideForm": false,
+  "publicList": false,
+  "formNote": "Your details are used only to handle this request.",
+  "kind": "rsvp",
+  "eyebrow": "BUILD NIGHT",
+  "headline": "A seat at the table.",
+  "description": "An evening of short demos, useful conversations, and things made together.",
+  "button": "Reserve my place",
+  "fields": [
+    {
+      "name": "name",
+      "label": "Your name",
+      "type": "text"
+    },
+    {
+      "name": "email",
+      "label": "Email address",
+      "type": "email"
+    }
+  ],
+  "success": "Your place is reserved.",
+  "accent": "#365694",
+  "batch": false
+}
